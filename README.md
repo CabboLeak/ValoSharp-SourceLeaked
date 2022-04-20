@@ -2,7 +2,7 @@
 ValoSharp SouceCode leaked and full cracked by Cabbo :)
 
 SourceCode updated on 20/04/2022.
-Now you can build the project with VisualStudio 2019 or VisualStudio 2022 without error. Enjoy.
+Now you can build the project with VisualStudio 2019 or VisualStudio 2022 (You may find some errors, I'm fixing). Enjoy.
 
 # Leak
 
